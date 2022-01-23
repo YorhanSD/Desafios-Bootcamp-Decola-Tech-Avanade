@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\Xenlongao\bin\Debug\net6.0\Xenlongao.exe
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\Xenlongao\bin\Debug\net6.0\Xenlongao.deps.json
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\Xenlongao\bin\Debug\net6.0\Xenlongao.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\Xenlongao\bin\Debug\net6.0\Xenlongao.dll
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\Xenlongao\bin\Debug\net6.0\ref\Xenlongao.dll
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\Xenlongao\bin\Debug\net6.0\Xenlongao.pdb
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\Xenlongao\obj\Debug\net6.0\Xenlongao.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\Xenlongao\obj\Debug\net6.0\Xenlongao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\Xenlongao\obj\Debug\net6.0\Xenlongao.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\Xenlongao\obj\Debug\net6.0\Xenlongao.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\Xenlongao\obj\Debug\net6.0\Xenlongao.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\Xenlongao\obj\Debug\net6.0\Xenlongao.dll
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\Xenlongao\obj\Debug\net6.0\ref\Xenlongao.dll
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\Xenlongao\obj\Debug\net6.0\Xenlongao.pdb
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\Xenlongao\obj\Debug\net6.0\Xenlongao.genruntimeconfig.cache

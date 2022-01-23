@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\ValorDeS\bin\Debug\net6.0\ValorDeS.exe
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\ValorDeS\bin\Debug\net6.0\ValorDeS.deps.json
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\ValorDeS\bin\Debug\net6.0\ValorDeS.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\ValorDeS\bin\Debug\net6.0\ValorDeS.dll
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\ValorDeS\bin\Debug\net6.0\ref\ValorDeS.dll
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\ValorDeS\bin\Debug\net6.0\ValorDeS.pdb
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\ValorDeS\obj\Debug\net6.0\ValorDeS.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\ValorDeS\obj\Debug\net6.0\ValorDeS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\ValorDeS\obj\Debug\net6.0\ValorDeS.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\ValorDeS\obj\Debug\net6.0\ValorDeS.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\ValorDeS\obj\Debug\net6.0\ValorDeS.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\ValorDeS\obj\Debug\net6.0\ValorDeS.dll
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\ValorDeS\obj\Debug\net6.0\ref\ValorDeS.dll
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\ValorDeS\obj\Debug\net6.0\ValorDeS.pdb
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\ValorDeS\obj\Debug\net6.0\ValorDeS.genruntimeconfig.cache

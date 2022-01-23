@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\DuploFor\bin\Debug\net6.0\DuploFor.exe
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\DuploFor\bin\Debug\net6.0\DuploFor.deps.json
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\DuploFor\bin\Debug\net6.0\DuploFor.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\DuploFor\bin\Debug\net6.0\DuploFor.dll
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\DuploFor\bin\Debug\net6.0\ref\DuploFor.dll
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\DuploFor\bin\Debug\net6.0\DuploFor.pdb
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\DuploFor\obj\Debug\net6.0\DuploFor.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\DuploFor\obj\Debug\net6.0\DuploFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\DuploFor\obj\Debug\net6.0\DuploFor.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\DuploFor\obj\Debug\net6.0\DuploFor.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\DuploFor\obj\Debug\net6.0\DuploFor.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\DuploFor\obj\Debug\net6.0\DuploFor.dll
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\DuploFor\obj\Debug\net6.0\ref\DuploFor.dll
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\DuploFor\obj\Debug\net6.0\DuploFor.pdb
+C:\Users\pc\Documents\GitHub\Desafios Bootcamp Decola Tech Avanade\DuploFor\obj\Debug\net6.0\DuploFor.genruntimeconfig.cache
